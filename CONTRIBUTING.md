@@ -12,6 +12,6 @@ Also, describing your code through comments or adding a `README.md` for describi
 
 Please use proper directory structure, that is, place your new files in proper folders (create those folders if they don't exist). It is advised to use `lisp-case` for naming files.
 
-You will discover simpler ways to contribute if you explore the files and folders in this repository!
+_You will discover simpler ways to contribute if you explore the files and folders in this repository!_
 
 Have fun learning!
