@@ -1,6 +1,6 @@
 # Welcome to Open Source! &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/pr4shan7/Hacktoberfest/blob/master/LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/pr4shan7/Hacktoberfest/blob/master/README.md#get-started)
 
-> **_This repository is meant to help people learn and get started contributing to Open Source through Hacktoberfest. Otherwise this repo can be freely used to learn about Git, Github, Open Source Software and other stuff outside of Hacktoberfest._**
+> **_[This repository](https://github.com/pr4shan7/Hacktoberfest) is meant to help people learn and get started contributing to Open Source through Hacktoberfest. Otherwise this repo can be freely used to learn about Git, Github, Open Source Software and other stuff outside of Hacktoberfest._**
 
 [Hacktoberfest](https://hacktoberfest.digitalocean.com/) is an annual global hackathon event presented by [DigitalOcean](https://digitalocean.com) in partnership with [GitHub](https://github.com) to encourage people to make meaningful contribution to Open Source Software.
 Getting started with Open Source can be intimidating at first, but don't worry. Hacktoberfest is a great event to make your first meaningful pull request (PR) and this repository has everything you need to get started. What's more, make 4 PRs in this period and get a limited-edition T-shirt!
@@ -47,7 +47,9 @@ If you are absolutely new to Open Source (like everyone was once!) you can use t
 * [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
 * [Resources to learn Git](https://try.github.io/)
 
-Now that you are familiar with the basics of Git and GitHub, apply your knowledge to practice and start contributing to this repository. You are welcome! ^_^
+Now that you are familiar with the basics of Git and GitHub, apply your knowledge to practice and start contributing to [this repository](https://github.com/pr4shan7/Hacktoberfest). You are welcome! ^_^
+
+Please read the [Contribution Guide](https://github.com/pr4shan7/Hacktoberfest/blob/master/CONTRIBUTING.md) before you start.
 
 You can raise an issue, if you need to, or directly submit a PR addressing some issue.
 [This issue](https://github.com/pr4shan7/Hacktoberfest/issues/1) is a great first issue to address and get started.
