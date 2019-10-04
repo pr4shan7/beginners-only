@@ -1,5 +1,7 @@
 # Welcome to Open Source! &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/pr4shan7/Hacktoberfest/blob/master/LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/pr4shan7/Hacktoberfest/blob/master/README.md#get-started)
 
+> **_This repository is meant to help people learn and get started contributing to Open Source through Hacktoberfest. Otherwise this repo can be freely used to learn about Git, Github, Open Source Software and other stuff outside of Hacktoberfest._**
+
 [Hacktoberfest](https://hacktoberfest.digitalocean.com/) is an annual global hackathon event presented by [DigitalOcean](https://digitalocean.com) in partnership with [GitHub](https://github.com) to encourage people to make meaningful contribution to Open Source Software.
 Getting started with Open Source can be intimdating at first, but don't worry. Hacktoberfest is a great event to make your first meaningfull pull request (PR) and this repository has everything you need to get started. What's more, make 4 PRs in this period and get a limited-edition T-shirt!
 
