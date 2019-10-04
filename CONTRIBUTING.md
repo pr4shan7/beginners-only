@@ -3,7 +3,7 @@
 > **_Contribute to this repo and get started with Open Source!_**
 
 Every meaningful contribution is welcome.
-You may fix a typo or add content to files, you can add new files to existing folders or even add new folders. You may add a new algorithmic implementation or improver an earlier one, or add a new learning resource, or simply add anything you find worth adding.
+You may fix a typo or add content to files, you can add new files to existing folders or even add new folders. You may add a new algorithmic implementation or improver an earlier one, or add a new learning resource, or simply add anything you find worth adding. Also, you may use any programming-language for your code, there are no constraints.
 
 You can raise an issue, if you need to, or directly submit a PR addressing some issue. [This issue](https://github.com/pr4shan7/Hacktoberfest/issues/1) is a great first issue to address and get started.
 
