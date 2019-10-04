@@ -46,3 +46,5 @@ If you are absolutely new to Open Source (like everyone was once!) you can use t
 * [Resources to learn Git](https://try.github.io/)
 
 Now that you are familiar with the basics of Git and GitHub start contributing to this repository. You are welcome! ^_^
+
+[This issue](https://github.com/pr4shan7/Hacktoberfest/issues/1) is a great first issue to address and get started.
