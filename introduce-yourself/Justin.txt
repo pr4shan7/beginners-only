@@ -1,0 +1,3 @@
+Hey, my name is Justin and I started out programming in python. 
+I've been programming for a about three year and have just gotten into open source.
+Now I mainly code in java with a little python on the side for fun projects. 
