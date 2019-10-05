@@ -21,6 +21,8 @@ Please read the [Contribution Guide](https://github.com/pr4shan7/beginners-only/
 You can raise an issue, if you need to, or directly submit a PR addressing some issue.
 [This issue](https://github.com/pr4shan7/beginners-only/issues/1) is a great first issue to address and get started.
 
+Please spread the word and share this repository with your friends and help them start their Open Source journey!
+
 Additionally, you may participate in [Hacktoberfest](https://github.com/pr4shan7/beginners-only/blob/master/Hacktoberfest/README.md) if you are here in the month of October, and earn a limited-edition T-shirt!
 
 After you've made your first contribution, you may head to other repositories and explore Open Source. The following resources share repositories that curate tasks for beginners:
