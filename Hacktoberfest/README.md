@@ -55,3 +55,17 @@ You can raise an issue, if you need to, or directly submit a PR addressing some 
 [This issue](https://github.com/pr4shan7/beginners-only/issues/1) is a great first issue to address and get started.
 
 > **_Please remember: While this repository is a great way to make your first contribution to open-source and get-started with Hacktoberfest, it is strongly advised that you make your subsequent 3 contributions in a real-life Open Source Project (like [react](https://github.com/facebook/react)) to help support Open Source!_**
+
+The following resources share repositories that curate tasks for beginners:
+
+* [First Timers Only](https://www.firsttimersonly.com/)
+* [Up For Grabs](https://up-for-grabs.net/#/)
+* [Awesome for Beginners](https://github.com/mungell/awesome-for-beginners)
+* [Issuehub.io](http://issuehub.io/)
+* [Your First PR](https://yourfirstpr.github.io/)
+
+Once you start feeling more comfortable, you can find more open source projects through the following programs:
+
+* [Pull Request Roulette](http://www.pullrequestroulette.com/)
+* [Code Triage](https://www.codetriage.com/)
+* [24 P[ull] R[equest]s](https://24pullrequests.com/)
