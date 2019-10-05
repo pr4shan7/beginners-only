@@ -1,4 +1,4 @@
-# Contribute
+# Contribution Guide
 
 > **_Contribute to this repo and get started with Open Source!_**
 
