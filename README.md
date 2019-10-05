@@ -1,6 +1,6 @@
 # Welcome to Open Source! &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/pr4shan7/beginners-only/blob/master/LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/pr4shan7/beginners-only/blob/master/README.md#get-started) [![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://www.firsttimersonly.com/)
 
-> **_[This repository](https://github.com/pr4shan7/beginners-only) is meant to help people learn about Git and Github and get started contributing to Open Source Software, and can be freely used to practice Git workflow._**
+> **_[This repository](https://github.com/pr4shan7/beginners-only) is meant to help people learn about Git and Github and get started contributing to Open Source Software, and can be freely used to practice Git workflow. Also, it can be used as a learning resource for other topics. [Experienced users](https://github.com/pr4shan7/beginners-only/issues/10) are requested to contribute to this repo and help the community learn._**
 
 ## Get Started
 
@@ -15,6 +15,8 @@ If you are absolutely new to Open Source (like everyone was once!) you can use t
 * [Resources to learn Git](https://try.github.io/)
 
 Now that you are familiar with the basics of Git and GitHub, apply your knowledge to practice and start contributing to [this repository](https://github.com/pr4shan7/beginners-only) and help it evolve. You're welcome! ^_^
+
+If you're an experienced programmer/user, you are requested to contribute to this repo and help the community learn. See [Issue #10](https://github.com/pr4shan7/beginners-only/issues/10)
 
 Please read the [Contribution Guide](https://github.com/pr4shan7/beginners-only/blob/master/CONTRIBUTING.md) before you start.
 
