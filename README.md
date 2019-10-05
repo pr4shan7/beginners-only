@@ -40,3 +40,8 @@ Once you start feeling more comfortable, you can find more open source projects 
 * [Pull Request Roulette](http://www.pullrequestroulette.com/)
 * [Code Triage](https://www.codetriage.com/)
 * [24 P[ULL] R[EQUEST]S](https://24pullrequests.com/)
+
+Links to tutorial on youtube for learning Git:
+* https://www.youtube.com/watch?v=SWYqp7iY_Tc
+* https://www.youtube.com/watch?v=WbwIoQYP6no
+* https://www.youtube.com/watch?v=HVsySz-h9r4
