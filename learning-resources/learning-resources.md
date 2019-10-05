@@ -13,3 +13,8 @@ These are great resources to learn the specific topics and contribute better to 
 ## Markdown
 
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+
+## Web Development
+
+* [Learn HTML, CSS, Javascript](https://www.freecodecamp.org)
+* [Learn programming basics from CodeCademy](https://www.codecademy.com)
