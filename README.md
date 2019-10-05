@@ -35,13 +35,14 @@ After you've made your first contribution, you may head to other repositories an
 * [Issuehub.io](http://issuehub.io/)
 * [Your First PR](https://yourfirstpr.github.io/)
 
+Youtube learning resources:
+
+* Git & GitHub Crash Course For Beginners by Traversy Media
+* Git Tutorial for Beginners by Telusko
+* Git Tutorial for Beginners: Command-Line Fundamentals by  Corey Schafer
+
 Once you start feeling more comfortable, you can find more open source projects through the following programs:
 
 * [Pull Request Roulette](http://www.pullrequestroulette.com/)
 * [Code Triage](https://www.codetriage.com/)
 * [24 P[ULL] R[EQUEST]S](https://24pullrequests.com/)
-
-Links to tutorial on youtube for learning Git:
-* https://www.youtube.com/watch?v=SWYqp7iY_Tc
-* https://www.youtube.com/watch?v=WbwIoQYP6no
-* https://www.youtube.com/watch?v=HVsySz-h9r4
