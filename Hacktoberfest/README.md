@@ -51,10 +51,12 @@ Now that you are familiar with the basics of Git and GitHub, apply your knowledg
 
 Please read the [Contribution Guide](https://github.com/pr4shan7/beginners-only/blob/master/CONTRIBUTING.md) before you start.
 
-You can raise an issue, if you need to, or directly submit a PR addressing some issue.
-[This issue](https://github.com/pr4shan7/beginners-only/issues/1) is a great first issue to address and get started.
+If you're an experienced programmer/user, you are requested to contribute to this repo and help the community learn. See [Issue #10](https://github.com/pr4shan7/beginners-only/issues/10)
 
-> **_Please remember: While this repository is a great way to make your first contribution to open-source and get-started with Hacktoberfest, it is strongly advised that you make your subsequent 4 contributions in a real-life Open Source Project (like [react](https://github.com/facebook/react)) to help support Open Source!_**
+You can raise an issue, if you need to, or directly submit a PR addressing some issue.
+[This issue for beginners](https://github.com/pr4shan7/beginners-only/issues/1) is a great first issue to address and get started.
+
+> **_Please remember: While this repository is a great way to make your first contribution to open-source and get-started with Hacktoberfest, it is strongly advised that you make 4 contributions in a real-life Open Source Project (like [react](https://github.com/facebook/react)) to help support Open Source! Quality contributions to this repo addressing [#10](https://github.com/pr4shan7/beginners-only/issues/10) shall also be considered meaningful and helping._**
 
 The following resources share repositories that curate tasks for beginners:
 
