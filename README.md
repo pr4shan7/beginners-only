@@ -1,6 +1,6 @@
 # Welcome to Open Source! &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/pr4shan7/beginners-only/blob/master/LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/pr4shan7/beginners-only/blob/master/README.md#get-started) [![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://www.firsttimersonly.com/)
 
-> **_[This repository](https://github.com/pr4shan7/beginners-only) is meant to help people learn about Git and Github and get started contributing to Open Source Software._**
+> **_[This repository](https://github.com/pr4shan7/beginners-only) is meant to help people learn about Git and Github and get started contributing to Open Source Software, and can be freely used to practice Git workflow._**
 
 ## Get Started
 
