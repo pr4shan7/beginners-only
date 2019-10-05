@@ -68,4 +68,4 @@ Once you start feeling more comfortable, you can find more open source projects 
 
 * [Pull Request Roulette](http://www.pullrequestroulette.com/)
 * [Code Triage](https://www.codetriage.com/)
-* [24 P[ull] R[equest]s](https://24pullrequests.com/)
+* [24 P[ULL] R[EQESTS]S](https://24pullrequests.com/)
