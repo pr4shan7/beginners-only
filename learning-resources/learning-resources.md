@@ -9,6 +9,7 @@ These are great resources to learn the specific topics and contribute better to 
 * [How to create a Pull Request](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)
 * [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
 * [Resources to learn Git](https://try.github.io/)
+* [GitHub Tags for Beginners](https://gist.github.com/stefanmaric/d5a03eeb89af81e5537e2efe7dd479cf)
 
 ## Markdown
 
