@@ -3,7 +3,7 @@
 > **_Contribute to this repo and get started with Open Source!_**
 
 Every meaningful contribution is welcome.
-You may fix a typo or add content to files, you can add new files to existing folders or even add new folders. You may add a new algorithmic implementation or improver an earlier one, or add a new learning resource, or simply add anything you find worth adding. Also, you may use any programming-language for your code, there are no constraints.
+You may fix a typo, a broken-link or add content to files, you can add new files to existing folders or even add new folders. You may add a new algorithmic implementation or improver an earlier one, or add a new learning resource, or simply add anything you find worth adding. Also, you may use any programming-language for your code, there are no constraints.
 
 Any useful learning resource which will help others learn about Open Source will be greatly appreciated! Help this repository evolve and serve its purpose!
 
