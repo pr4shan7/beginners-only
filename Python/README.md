@@ -2,8 +2,8 @@ This is a python folder dedicated to some of our favourite python scripts!
 
 Please insert your favourite piece of python code within this folder and help it grow!
 
-## TTT.py
-# Tic-Tac-Toe
+# TTT.py
+## Tic-Tac-Toe
 A very basic game of Tic Tac Toe made using Python. This is my first small project in Python I made this and ran it on Jupyter Notebooks. Any kind of constructive criticism is appreciated. Enjoy! :)
 
 General Information :
