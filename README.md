@@ -37,9 +37,9 @@ After you've made your first contribution, you may head to other repositories an
 
 Youtube learning resources:
 
-* Git & GitHub Crash Course For Beginners by Traversy Media
-* Git Tutorial for Beginners by Telusko
-* Git Tutorial for Beginners: Command-Line Fundamentals by  Corey Schafer
+* [Git & GitHub Crash Course For Beginners by Traversy Media](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+* [Git Tutorial for Beginners by Telusko](https://www.youtube.com/watch?v=WbwIoQYP6no)
+* [Git Tutorial for Beginners: Command-Line Fundamentals by  Corey Schafer]()
 
 Once you start feeling more comfortable, you can find more open source projects through the following programs:
 
