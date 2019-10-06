@@ -4,32 +4,32 @@
  
 int main(void)
 {
-  int unsorted_array[1000], size, i, j, swap;
+  int Unsorted_Array[1000], size_of_array, Loop1_Counter, Loop2_Counter, swap_variable;
  
   printf("Please enter the number of elements\n");
-  scanf("%d", &size);
+  scanf("%d", &size_of_array);
   printf("Enter the integers to be sorted\n");
  
-  for (i = 0; i < size; i++)
-    scanf("%d", &unsorted_array[i]);		//input array
+  for (Loop1_Counter = 0; Loop1_Counter < size_of_array; Loop1_Counter++)
+    scanf("%d", &Unsorted_Array[Loop1_Counter]);							//input array
  
-  for (i = 0 ; i < size - 1; i++)		//outer loop
+  for (Loop1_Counter = 0 ; Loop1_Counter < size_of_array - 1; Loop1_Counter ++)				//1st Loop for Counter
   {
-    for (j = 0 ; j < size - i - 1; j++)		// inner loop
+    for (Loop2_Counter = 0 ; Loop1_Counter < size_of_array - Loop1_Counter - 1; Loop2_Counter ++)	//2nd Loop for Swap
     {
-      if (unsorted_array[j] > unsorted_array[j+1])  		// For descending order use <
+      if (Unsorted_Array[Loop2_Counter] > Unsorted_Array[Loop2_Counter + 1])  				// For descending order use <
       {
-        swap       = unsorted_array[j];			// code to swap values
-        unsorted_array[j]   = unsorted_array[j+1];
-        unsorted_array[j+1] = swap;
+        swap_variable = Unsorted_Array[Loop2_Counter];							// code to swap values
+        Unsorted_Array[Loop2_Counter]   = Unsorted_Array[Loop2_Counter + 1];
+	Unsorted_Array[Loop1_Counter + 1] = swap_variable;
       }
     }
   }
  
   printf("Sorted array in ascending order:\n");
  
-  for (i = 0; i < size; i++)
-     printf("%d\n", unsorted_array[i]);		// output sorted array
+  for (Loop1_Counter = 0; Loop1_Counter < size_of_array; Loop1_Counter ++)
+     printf("%d\n", Unsorted_Array[Loop1_Counter]);							// output sorted array
  
   return 0;
 }
