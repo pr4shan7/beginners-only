@@ -47,6 +47,8 @@ If you are absolutely new to Open Source (like everyone was once!) you can use t
 * [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
 * [Resources to learn Git](https://try.github.io/)
 
+More learning resources can be found [here](https://github.com/pr4shan7/beginners-only/blob/sub-branch/learning-resources/learning-resources.md).
+
 Now that you are familiar with the basics of Git and GitHub, apply your knowledge to practice and make your first contribution to [this repository](https://github.com/pr4shan7/beginners-only). You are welcome! ^_^
 
 Please read the [Contribution Guide](https://github.com/pr4shan7/beginners-only/blob/master/CONTRIBUTING.md) before you start.
