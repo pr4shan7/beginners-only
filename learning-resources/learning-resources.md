@@ -12,6 +12,12 @@ These are great resources to learn the specific topics and contribute better to 
 * [GitHub Standard Fork & Pull Request Workflow](https://gist.github.com/Chaser324/ce0505fbed06b947d962)
 * [How to rename a directory/folder on GitHub website?](https://stackoverflow.com/questions/31861651/how-to-rename-a-directory-folder-on-github-website)
 
+### Youtube learning resources:
+
+* [Git & GitHub Crash Course For Beginners by Traversy Media](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+* [Git Tutorial for Beginners by Telusko](https://www.youtube.com/watch?v=WbwIoQYP6no)
+* [Git Tutorial for Beginners: Command-Line Fundamentals by  Corey Schafer](https://www.youtube.com/watch?v=HVsySz-h9r4)
+
 ## Markdown
 
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
