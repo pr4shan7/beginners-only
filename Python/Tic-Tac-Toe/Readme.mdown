@@ -1,4 +1,4 @@
-## Tic-Tac-Toe
+# Tic-Tac-Toe
 A very basic game of Tic Tac Toe made using Python. This is my first small project in Python I made this and ran it on Jupyter Notebooks. Any kind of constructive criticism is appreciated. Enjoy! :)
 
 General Information :
@@ -13,7 +13,7 @@ A sample output is in a file called "Sample.txt" in this folder.
 
 Now go flex 'em neurons!!
 
-# How to make similar games?
+## How to make similar games?
 Hey! Liked the game and want to make your own using the power of the Almighty Python?
 Don't worry, it's not that difficult. I've used basic Python data structures, if-else if conditions,while loops and basic functions.A good resourece would be W3Schools : https://www.w3schools.com/python/.
 All the best! :)
