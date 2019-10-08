@@ -26,3 +26,16 @@ These are great resources to learn the specific topics and contribute better to 
 
 * [Learn HTML, CSS, Javascript](https://www.freecodecamp.org)
 * [Learn programming basics from CodeCademy](https://www.codecademy.com)
+
+## C++
+
+* [Codeacademy](https://www.codecademy.com/learn/learn-c-plus-plus?utm_source=xinquji)
+
+### Videos
+
+* [C++ Tutorial for Beginners - Full Course from freecodecamp.org](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
+* [C++ Tutorial | Learn C++ programming | Full C++ Programming Course from programmingKnowledge](https://www.youtube.com/watch?v=MhYECGUzdA4)
+
+### Books
+
+* C++ PRIMER by Stanlee B Lippman
