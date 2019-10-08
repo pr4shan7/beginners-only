@@ -11,6 +11,7 @@ These are great resources to learn the specific topics and contribute better to 
 * [Resources to learn Git](https://try.github.io/)
 * [GitHub Standard Fork & Pull Request Workflow](https://gist.github.com/Chaser324/ce0505fbed06b947d962)
 * [How to rename a directory/folder on GitHub website?](https://stackoverflow.com/questions/31861651/how-to-rename-a-directory-folder-on-github-website)
+* [Git Cheat Sheet](https://www.git-tower.com/blog/git-cheat-sheet/)
 
 ### Youtube learning resources:
 
@@ -27,3 +28,16 @@ These are great resources to learn the specific topics and contribute better to 
 * [Learn HTML, CSS, Javascript](https://www.freecodecamp.org)
 * [Learn programming basics from CodeCademy](https://www.codecademy.com)
 * [Introduction to Web Development-Coursera](https://www.coursera.org/learn/web-development)
+
+## C++
+
+* [Codeacademy](https://www.codecademy.com/learn/learn-c-plus-plus?utm_source=xinquji)
+
+### Videos
+
+* [C++ Tutorial for Beginners - Full Course from freecodecamp.org](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
+* [C++ Tutorial | Learn C++ programming | Full C++ Programming Course from programmingKnowledge](https://www.youtube.com/watch?v=MhYECGUzdA4)
+
+### Books
+
+* C++ PRIMER by Stanlee B Lippman
