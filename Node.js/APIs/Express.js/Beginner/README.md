@@ -3,7 +3,7 @@
 This is a quick tutorial for beginners to learn Express.js
 
 - You will need to have [Node.js](https://nodejs.org/en/) installed prior to starting this tutorial.
-    _(If this is your first time downloading Node.js, restart your PC after install, or else NPM commands will not work.)_
+_(If this is your first time downloading Node.js, restart your PC after install, or else NPM commands will not work.)_
 
 - I recommend downloading the [Postman](https://www.getpostman.com/) client in order to test your endpoints.
 
@@ -20,8 +20,4 @@ Once you've completed the setup, you should see the following in the console aft
 [nodemon] watching extensions: js,mjs,json
 [nodemon] starting `node app.js`
 Server started successfully!
-[nodemon] restarting due to changes...
-[nodemon] starting `node app.js`
-Server started successfully!
 ```
-
