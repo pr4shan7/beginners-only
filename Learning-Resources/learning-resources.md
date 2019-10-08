@@ -11,6 +11,7 @@ These are great resources to learn the specific topics and contribute better to 
 * [Resources to learn Git](https://try.github.io/)
 * [GitHub Standard Fork & Pull Request Workflow](https://gist.github.com/Chaser324/ce0505fbed06b947d962)
 * [How to rename a directory/folder on GitHub website?](https://stackoverflow.com/questions/31861651/how-to-rename-a-directory-folder-on-github-website)
+* [Git Cheat Sheet](https://www.git-tower.com/blog/git-cheat-sheet/)
 
 ### Youtube learning resources:
 
