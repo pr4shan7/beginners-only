@@ -14,20 +14,17 @@ These are great resources to learn the specific topics and contribute better to 
 
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
-## C++ links
+## C++
 
-*(VIDEOS)
+### Videos
 
-(1) https://www.youtube.com/watch?v=vLnPwxZdW4Y
-    (C++ Tutorial for Beginners - Full Course from channel freecodecamp.org)
-(2) https://www.youtube.com/watch?v=MhYECGUzdA4
-    (C++ Tutorial | Learn C++ programming | Full C++ Programming Course from channel programmingKnowledge)
+* [C++ Tutorial for Beginners - Full Course from freecodecamp.org](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
+* [C++ Tutorial | Learn C++ programming | Full C++ Programming Course from programmingKnowledge](https://www.youtube.com/watch?v=MhYECGUzdA4)
 
-*(SITES)
+### Sites
 
-(1) https://www.codecademy.com/learn/learn-c-plus-plus?utm_source=xinquji
-    (codeacademy site)
+* [Codeacademy](https://www.codecademy.com/learn/learn-c-plus-plus?utm_source=xinquji)
 
-*(BOOKS)
+### Books
 
-(1) C++ PRIME by Stanlee B Lippman
+* C++ PRIMER by Stanlee B Lippman
