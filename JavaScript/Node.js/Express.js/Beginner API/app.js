@@ -1,6 +1,8 @@
+//Setting up express by importing it and running the function
 const express = require('express');
 const app = express();
 
+//Setting up express server on port 3000, and configuring it to run with JSON.
 app.listen(3000, () => console.log('Server started successfully!'));
 app.use(express.json());
 
