@@ -1,5 +1,5 @@
-# Magic8-Ball
-import random                 #using random module to get random predictions
+# Magic8-Ball, run this script to get a prediction
+import random   #using random module to get random predictions
 def getpredict(answerNumber):
     if answerNumber == 1:
         return "It is certain."
@@ -18,4 +18,3 @@ def getpredict(answerNumber):
     elif answerNumber == 8:
         return "Ask again later."
 print(getpredict(random.randint(1, 8)))
-    
