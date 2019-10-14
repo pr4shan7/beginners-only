@@ -13,6 +13,13 @@ These are great resources to learn the specific topics and contribute better to 
 * [How to rename a directory/folder on GitHub website?](https://stackoverflow.com/questions/31861651/how-to-rename-a-directory-folder-on-github-website)
 * [Git Cheat Sheet](https://www.git-tower.com/blog/git-cheat-sheet/)
 
+### Online Text Resources
+* Atlassian git tutorial by atlassian (https://www.atlassian.com/git/tutorials)
+* Git Magic by standford.edu (http://www-cs-students.stanford.edu/~blynn/gitmagic/)
+* Git Handbook by github (https://guides.github.com/introduction/git-handbook/)
+* First timers only by firsttimersonly.com (https://www.firsttimersonly.com/)
+* An Introduction to Open Source (https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source)
+
 ### Youtube learning resources:
 
 * [Git & GitHub Crash Course For Beginners by Traversy Media](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
