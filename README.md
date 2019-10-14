@@ -12,7 +12,6 @@ If you are absolutely new to Open Source (like everyone was once!) you can use t
 * [Crash Course: git Lingo](https://dev.to/tvanblargan/crash-course-git-lingo-1enj)
 * [How to create a Pull Request](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)
 * [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
-* [Resources to learn Git](https://try.github.io/)
 
 More learning resources can be found [here](https://github.com/pr4shan7/beginners-only/blob/master/Learning-Resources/learning-resources.md#git-github-and-open-source).
 
