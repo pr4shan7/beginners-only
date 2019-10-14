@@ -43,4 +43,7 @@ Once you start feeling more comfortable, you can find more open source projects 
 * [Code Triage](https://www.codetriage.com/)
 * [24 P[ULL] R[EQUEST]S](https://24pullrequests.com/)
 
+These twitter accounts will help:
+[Twitter Accounts which tweets about beginner friendly issues.](https://github.com/adigeak/beginners-only/blob/master/Twitter.md)
+
 _Like this repo? Star it and show your love!_
