@@ -45,7 +45,6 @@ If you are absolutely new to Open Source (like everyone was once!) you can use t
 * [Crash Course: git Lingo](https://dev.to/tvanblargan/crash-course-git-lingo-1enj)
 * [How to create a Pull Request](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)
 * [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
-* [Resources to learn Git](https://try.github.io/)
 
 More learning resources can be found [here](https://github.com/pr4shan7/beginners-only/blob/master/Learning-Resources/learning-resources.md#git-github-and-open-source).
 
@@ -73,3 +72,5 @@ Once you start feeling more comfortable, you can find more open source projects 
 * [Pull Request Roulette](http://www.pullrequestroulette.com/)
 * [Code Triage](https://www.codetriage.com/)
 * [24 P[ULL] R[EQEST]S](https://24pullrequests.com/)
+
+Be sure to checkout [the main README file](https://github.com/pr4shan7/beginners-only/blob/master/README.md).
