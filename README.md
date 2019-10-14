@@ -54,8 +54,6 @@ Here are guides from different organizations to make it easy for first timers to
 6. [Apache Newcomers Guide](http://community.apache.org/newcomers/index.html)
 7. [KDE guide](https://community.kde.org/Get_Involved)
 
-These twitter accounts will help:
-
-[Twitter Accounts which tweet about beginner friendly issues](https://github.com/pr4shan7/beginners-only/blob/master/help-from-twitter.md)
+[Twitter Accounts which tweet about beginner friendly issues](https://github.com/pr4shan7/beginners-only/blob/master/help-from-twitter.md).
 
 _Like this repo? Star it and show your love!_
