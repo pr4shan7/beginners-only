@@ -44,8 +44,7 @@ Once you start feeling more comfortable, you can find more open source projects 
 * [Code Triage](https://www.codetriage.com/)
 * [24 P[ULL] R[EQUEST]S](https://24pullrequests.com/)
 
-
-Here is guides from different organizations to make it easy for first timers to contribute to their projects.
+Here are guides from different organizations to make it easy for first timers to contribute to their projects:
 
 1. [First Kernel Patch](https://kernelnewbies.org/FirstKernelPatch)
 2. [GnomeLove](https://wiki.gnome.org/action/show/Newcomers?action=show&redirect=GnomeLove)
@@ -57,6 +56,6 @@ Here is guides from different organizations to make it easy for first timers to 
 
 These twitter accounts will help:
 
-[Twitter Accounts which tweets about beginner friendly issues.](https://github.com/adigeak/beginners-only/blob/master/twitter.md)
+[Twitter Accounts which tweet about beginner friendly issues](https://github.com/pr4shan7/beginners-only/blob/master/helpful-twitter-handles.md)
 
 _Like this repo? Star it and show your love!_
