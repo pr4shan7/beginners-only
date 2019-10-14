@@ -36,12 +36,24 @@ After you've made your first contribution, you may head to other repositories an
 * [Awesome for Beginners](https://github.com/mungell/awesome-for-beginners)
 * [Issuehub.io](http://issuehub.io/)
 * [Your First PR](https://yourfirstpr.github.io/)
+* [First Contributions](https://roshanjossey.github.io/first-contributions)
 
 Once you start feeling more comfortable, you can find more open source projects through the following programs:
 
 * [Pull Request Roulette](http://www.pullrequestroulette.com/)
 * [Code Triage](https://www.codetriage.com/)
 * [24 P[ULL] R[EQUEST]S](https://24pullrequests.com/)
+
+
+Here is guides from different organizations to make it easy for first timers to contribute to their projects.
+
+1. [First Kernel Patch](https://kernelnewbies.org/FirstKernelPatch)
+2. [GnomeLove](https://wiki.gnome.org/action/show/Newcomers?action=show&redirect=GnomeLove)
+3. [What Can I Do For Mozilla?](http://www.whatcanidoformozilla.org/#!/progornoprog/support)
+4. [What Can I Do For Fedora?](https://whatcanidoforfedora.org/en#designexclamation)
+5. [How to become a MediaWiki hacker?](https://www.mediawiki.org/wiki/How_to_become_a_MediaWiki_hacker)
+6. [Apache Newcomers Guide](http://community.apache.org/newcomers/index.html)
+7. [KDE guide](https://community.kde.org/Get_Involved)
 
 These twitter accounts will help:
 
