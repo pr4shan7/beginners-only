@@ -73,4 +73,4 @@ Once you start feeling more comfortable, you can find more open source projects 
 * [Code Triage](https://www.codetriage.com/)
 * [24 P[ULL] R[EQEST]S](https://24pullrequests.com/)
 
-Be sure to checkout [the main README file](https://github.com/pr4shan7/beginners-only/blob/master/README.md).
+Be sure to checkout [the main README file](https://github.com/pr4shan7/beginners-only/blob/master/README.md). Happy Hacktober! ^_^
