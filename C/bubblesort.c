@@ -13,9 +13,9 @@ int main(void)
   for (Loop1_Counter = 0; Loop1_Counter < size_of_array; Loop1_Counter++)
     scanf("%d", &Unsorted_Array[Loop1_Counter]);							//input array
  
-  for (Loop1_Counter = 0 ; Loop1_Counter < size_of_array - 1; Loop1_Counter ++)				//1st Loop for Counter
+  for (Loop1_Counter = 0 ; Loop1_Counter < size_of_array - 1; Loop1_Counter ++)	//Outer Loop for Counter
   {
-    for (Loop2_Counter = 0 ; Loop1_Counter < size_of_array - Loop1_Counter - 1; Loop2_Counter ++)	//2nd Loop for Swap
+    for (Loop2_Counter = 0 ; Loop1_Counter < size_of_array - Loop1_Counter - 1; Loop2_Counter ++)	//Inner Loop for Swap
     {
       if (Unsorted_Array[Loop2_Counter] > Unsorted_Array[Loop2_Counter + 1])  				// For descending order use <
       {
