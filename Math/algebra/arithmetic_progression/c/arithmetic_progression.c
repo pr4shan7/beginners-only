@@ -4,18 +4,17 @@
 int main()
 {
      int a, d, n, i, tn;
-     int sum = 0;
- 
-     printf("Enter the first term value of the A.P. series: ");
+     int sum = 0; 
+     printf("Enter the first term value of the A.P. series: ");//to input first element of A.P.      
      scanf("%d", &a);
-     printf("Enter the total numbers in the A.P. series: ");
+     printf("Enter the total numbers in the A.P. series: ");//to input number of terms of A.P. we want to generate.
      scanf("%d", &n);
-     printf("Enter the common difference of A.P. series: ");
+     printf("Enter the common difference of A.P. series: ");//to input the common difference between two consecutive terms of an A.P.
      scanf("%d", &d);
-     sum = (n * (2 * a + (n - 1)* d ))/ 2;
-     tn = a + (n - 1) * d;
-     printf("Sum of the A.P series is: ");
-     for (i = a; i <= tn; i = i + d )
+     sum = (n * (2 * a + (n - 1)* d ))/ 2;//to calcutate the sum of elements of an A.P.
+     tn = a + (n - 1) * d;//to calculate total number of terms of an A.P.
+     printf("Sum of the A.P series is: ");//print sum of elememts of an A.P.
+     for (i = a; i <= tn; i = i + d )//loop to print elements of an A.P.
      {
           if (i != tn)
                printf("%d + ", i);
