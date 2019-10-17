@@ -37,7 +37,7 @@ These are great resources to learn the specific topics and contribute better to 
 
 ## C++
 
-* [Udacity](https://www.codecademy.com/learn/learn-c-plus-plus?utm_source=xinquji)
+* [Codeacademy](https://www.codecademy.com/learn/learn-c-plus-plus?utm_source=xinquji)
 
 ## Android Development
 * [Udacity](https://github.com/mikesprague/udacity-nanodegrees)
