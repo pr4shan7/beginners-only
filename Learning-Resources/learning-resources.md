@@ -37,12 +37,18 @@ These are great resources to learn the specific topics and contribute better to 
 
 ## C++
 
-* [Codeacademy](https://www.codecademy.com/learn/learn-c-plus-plus?utm_source=xinquji)
+* [Udacity](https://www.codecademy.com/learn/learn-c-plus-plus?utm_source=xinquji)
+
+## Android Development
+* [Udacity](https://github.com/mikesprague/udacity-nanodegrees)
+
 
 ### Videos
 
 * [C++ Tutorial for Beginners - Full Course from freecodecamp.org](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
 * [C++ Tutorial | Learn C++ programming | Full C++ Programming Course from programmingKnowledge](https://www.youtube.com/watch?v=MhYECGUzdA4)
+* [Java Programming Tutorial from thenewboston](https://www.youtube.com/watch?v=Hl-zzrqQoSE&list=PLFE2CE09D83EE3E28)
+
 
 ### Books
 
