@@ -47,3 +47,9 @@ These are great resources to learn the specific topics and contribute better to 
 ### Books
 
 * C++ PRIMER by Stanlee B Lippman
+
+## Free and Paid courses
+
+* [LinuxAcademy](https://www.linuxacademy.com)
+* [Udemy](https://www.udemy.com)
+* [Cybrary](https://cybrary.it/freeittraining)
