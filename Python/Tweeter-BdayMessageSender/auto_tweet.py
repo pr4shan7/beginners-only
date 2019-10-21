@@ -1,3 +1,5 @@
+#This script will send the birthday Greet message when someone birthday is found from the text file.
+
 
 from tweepy import OAuthHandler
 import tweepy
