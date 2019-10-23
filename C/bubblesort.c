@@ -2,7 +2,7 @@
 
 #include <stdio.h>
  
-int main(void)
+int main()
 {
   int Unsorted_Array[1000], size_of_array, Loop1_Counter, Loop2_Counter, swap_variable;
  
