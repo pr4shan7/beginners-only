@@ -1,4 +1,4 @@
-# Learning Resorces
+# Learning Resources
 
 These are great resources to learn the specific topics and contribute better to Open Source Projects.
 
@@ -13,7 +13,7 @@ These are great resources to learn the specific topics and contribute better to 
 * [GitHub Standard Fork & Pull Request Workflow](https://gist.github.com/Chaser324/ce0505fbed06b947d962)
 * [How to rename a directory/folder on GitHub website?](https://stackoverflow.com/questions/31861651/how-to-rename-a-directory-folder-on-github-website)
 * [Git Cheat Sheet](https://www.git-tower.com/blog/git-cheat-sheet/)
-
+* [Git-it. Learn Git with step-by-step instructions](http://jlord.us/git-it/index.html)
 * [Atlassian git tutorial by atlassian](https://www.atlassian.com/git/tutorials)
 * [Git Magic by standford.edu](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
 * [Git Handbook by GitHub](https://guides.github.com/introduction/git-handbook/)
@@ -47,3 +47,4 @@ These are great resources to learn the specific topics and contribute better to 
 ### Books
 
 * C++ PRIMER by Stanlee B Lippman
+* You Don't Know JS by Kyle Simpson
