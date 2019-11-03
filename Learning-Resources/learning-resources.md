@@ -47,4 +47,9 @@ These are great resources to learn the specific topics and contribute better to 
 ### Books
 
 * C++ PRIMER by Stanlee B Lippman
+
+## JavaScript
+
+### Books
+
 * You Don't Know JS by Kyle Simpson
