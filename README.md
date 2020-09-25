@@ -17,7 +17,7 @@ More learning resources can be found [here](https://github.com/pr4shan7/beginner
 
 Now that you are familiar with the basics of Git and GitHub, apply your knowledge to practice and start contributing to [this repository](https://github.com/pr4shan7/beginners-only) and help it evolve. You're welcome! ^_^
 
-If you're an experienced programmer/user, you are requested to contribute to this repo and help the community learn. See [Issue #10](https://github.com/pr4shan7/beginners-only/issues/10)
+If you're an experienced programmer/user, you are requested to contribute to this repo and help the community learn. See [Issue #10](https://github.com/pr4shan7/beginners-only/issues/10)  
 Also, please consider becoming a maintainer to help keep this repo alive and give back to the community. See [Issue #100](https://github.com/pr4shan7/beginners-only/issues/100)
 
 Please read the [Contribution Guide](https://github.com/pr4shan7/beginners-only/blob/master/CONTRIBUTING.md) before you start.
