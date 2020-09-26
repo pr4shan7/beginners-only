@@ -1,2 +1,2 @@
-This is a simple website build using Django that prints Hello World! on the browser.
+This is a simple website build using Django that displays Hello World! on the browser.
  
