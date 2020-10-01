@@ -8,6 +8,7 @@ These are great resources to learn the specific topics and contribute better to 
 * [Crash Course: git Lingo](https://dev.to/tvanblargan/crash-course-git-lingo-1enj)
 * [How to create a Pull Request](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)
 * [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
+* [Learn Enough Git to Be Dangerous](https://www.learnenough.com/git-tutorial/getting_started)
 
 * [Resources to learn Git](https://try.github.io/)
 * [GitHub Standard Fork & Pull Request Workflow](https://gist.github.com/Chaser324/ce0505fbed06b947d962)
