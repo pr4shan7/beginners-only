@@ -54,3 +54,8 @@ These are great resources to learn the specific topics and contribute better to 
 ### Books
 
 * You Don't Know JS by Kyle Simpson
+
+### Videos
+
+* [The Modern JavaScript Tutorial](https://javascript.info/)
+* [Resources for JavaScript](https://www.javascript.com/resources)
